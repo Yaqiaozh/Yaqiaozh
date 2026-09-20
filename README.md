@@ -11,6 +11,14 @@ I am interested in using data analytics, statistical modeling, and business inte
 * **Visualization & Business Tools:** Tableau, Matplotlib, Seaborn, Excel
 * **Languages:** Mandarin (Native), English (Professional Proficiency)
 
+## Featured Projects
+
+### [Company Bankruptcy Prediction](https://github.com/Yaqiaozh/company-bankruptcy-prediction)
+
+Compared four classification models using 6,819 company records and 95 financial indicators. Addressed a 3.2% bankruptcy rate through stratified sampling, class weighting, cross-validation, and imbalance-aware evaluation. Random Forest achieved a ROC AUC of 0.94, while Decision Tree achieved the highest recall of 0.82.
+
+**Tools:** Python, pandas, NumPy, scikit-learn, Matplotlib, Seaborn
+
 ## Current Focus
 
 * Building machine learning and business analytics projects

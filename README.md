@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Yaqiao Zhang 👋
 
-<!--
-**Yaqiaozh/Yaqiaozh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an M.S. in Business Analytics candidate at the University of Southern California, with a B.A. in Data Science and Economics (Mathematical Emphasis) from the University of Wisconsin–Madison.
 
-Here are some ideas to get you started:
+I am interested in using data analytics, statistical modeling, and business intelligence to turn complex data into actionable insights and support better decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+* **Programming & Data:** SQL, Python (pandas, NumPy, scikit-learn), R (dplyr, ggplot2)
+* **Analytics:** Econometrics, Regression, Classification, Cross-Validation, Imbalanced Data Analysis
+* **Visualization & Business Tools:** Tableau, Matplotlib, Seaborn, Excel
+* **Languages:** Mandarin (Native), English (Professional Proficiency)
+
+## Current Focus
+
+* Building machine learning and business analytics projects
+* Strengthening SQL, Python, and data visualization skills
+* Exploring opportunities in business analytics, data analytics, and strategy
+
+## Connect With Me
+
+* [LinkedIn](https://www.linkedin.com/in/yaqiao-zhang-b62021307)
+

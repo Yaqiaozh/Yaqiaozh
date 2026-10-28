@@ -19,6 +19,13 @@ Compared four classification models using 6,819 company records and 95 financial
 
 **Tools:** Python, pandas, NumPy, scikit-learn, Matplotlib, Seaborn
 
+
+### [Financial Market Reactions to Federal Reserve Monetary Policy Announcements](https://github.com/Yaqiaozh/fomc-market-reaction-analysis)
+
+Analyzed U.S. financial market responses to FOMC announcements from 2016–2025 using an event study with ±2-day windows. Applied OLS regression and interaction models to examine how equity markets, volatility, and Treasury yields responded to different monetary policy decisions and inflation regimes.
+
+**Tools:** Python, pandas, Econometrics, OLS Regression, Event Study
+
 ## Current Focus
 
 * Building machine learning and business analytics projects
